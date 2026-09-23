@@ -1,0 +1,11 @@
+name = "chickenroadapp-com-es"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chickenroadapp.com.es"
+HMAC_KEY = "c452802ff16d4ee9960b3f736bddb982af2120d4730ddec7ce41807f256be5e2"
+COOKIE_NAME = "ypd"
+PLAY_PATH = "start"
+BUTTON_ID = "pc6b1d3a04018089e68f0518c3dc53403"
+GATE_SALT = "f00b3ffc1c89a8f1"
